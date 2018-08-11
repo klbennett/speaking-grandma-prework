@@ -21,4 +21,3 @@ def speak_to_grandma
   else
     phrase == "string".upcase
     return "NO, NOT SINCE 1938!"
-  
